@@ -1,5 +1,4 @@
 # LSB Image Steganography #
-
 ## Introduction ##
 ![image](https://user-images.githubusercontent.com/49518103/196626265-1b498a36-5706-4a6d-873f-e4df337db198.png)
 
